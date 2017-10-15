@@ -4,10 +4,10 @@
 }
 
 create_field_marshal = {
-	name = "Karl Engelbrektson"
-	picture = "Portrait_Karl_Engelbrektson.dds"
-	traits = { old_guard defensive_doctrine }
-	skill = 1
+	name = "Vargkungen"
+	picture = "generals/vargkungen.dds"
+	traits = { panzer_leader }
+	skill = 5
 }
 
 create_field_marshal = {
