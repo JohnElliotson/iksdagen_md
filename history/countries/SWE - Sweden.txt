@@ -134,14 +134,14 @@ set_politics = {
 		}
 	}
 	
-	ruling_party = social_democrat
+	ruling_party = democratic_socialist
 	last_election = "1998.9.20"
 	election_frequency = 48
 	elections_allowed = yes
 }
 
 create_country_leader = {
-	name = "Riiga"
+	name = "riiga"
 	picture = "riiga.dds"
 	ideology = social_democrat_ideology
 }
@@ -162,8 +162,8 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Mikael Jansson"
-	picture = "Mikael_Jansson.dds"
+	name = "linusros"
+	picture = "linusros.dds"
 	ideology = counter_progressive_democrat
 }
 
@@ -194,7 +194,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "porlar37"
 	picture = "porlar37.dds"
-	ideology = green
+	ideology = progressive
 }
 
 create_country_leader = {
@@ -206,11 +206,11 @@ create_country_leader = {
 create_country_leader = {
 	name = "Ugion"
 	picture = "ugion.dds"
-	ideology = marxist
+	ideology = leninist
 }
 
 create_country_leader = {
-	name = "Abdirizak Waberi"
-	picture = "Abdirizak_Waberi.dds"
+	name = "IWantSharia"
+	picture = "iwantsharia.dds"
 	ideology = islamic_republican
 }
