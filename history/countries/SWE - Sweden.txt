@@ -141,14 +141,14 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Göran Persson"
-	picture = "Goran_Persson.dds"
+	name = "Riiga"
+	picture = "riiga.dds"
 	ideology = social_democrat_ideology
 }
 
 create_country_leader = {
-	name = "Carl XVI"
-	picture = "Charles_XVI.dds"
+	name = "Coffeh I"
+	picture = "coffeh_i.dds"
 	ideology = absolute_monarchist
 	traits = {
 		enemy_of_russia
@@ -156,8 +156,8 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Daniel Höglund"
-	picture = "Daniel_Hoglund.dds"
+	name = "Reichsadler"
+	picture = "reichsadler.dds"
 	ideology = national_socialist
 }
 
@@ -168,44 +168,44 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Anders Steen"
-	picture = "Anders_Steen.dds"
+	name = "JohnElliotsson"
+	picture = "johnelliotsson.dds"
 	ideology = national_democrat
 }
 
 create_country_leader = {
-	name = "Alf Svensson"
-	picture = "Alf_Svensson.dds"
+	name = "ThatWouldBeMeat"
+	picture = "thatwouldbemeat.dds"
 	ideology = christian_democrat
 }
 
 create_country_leader = {
-	name = "Bo Lundgren"
-	picture = "Bo_Lundgren.dds"
+	name = "Randompunkt"
+	picture = "randompunkt.dds"
 	ideology = libertarian
 }
 
 create_country_leader = {
-	name = "Lars Leijonborg"
-	picture = "Lars_Leijonborg.dds"
+	name = "thefreek1"
+	picture = "thefreek1.dds"
 	ideology = liberalist
 }
 
 create_country_leader = {
-	name = "Lotta Hedström"
-	picture = "Lotta_Hedstrom.dds"
+	name = "porlar37"
+	picture = "porlar37.dds"
 	ideology = green
 }
 
 create_country_leader = {
-	name = "Gudrun Schyman"
-	picture = "Gudrun_Schyman.dds"
+	name = "Alajv3"
+	picture = "alajv3.dds"
 	ideology = democratic_socialist_ideology
 }
 
 create_country_leader = {
-	name = "Rolf Hagel"
-	picture = "Rolf_Hagel.dds"
+	name = "Ugion"
+	picture = "ugion.dds"
 	ideology = marxist
 }
 
@@ -213,162 +213,4 @@ create_country_leader = {
 	name = "Abdirizak Waberi"
 	picture = "Abdirizak_Waberi.dds"
 	ideology = islamic_republican
-}
-
-2002.1.1 = {
-	create_country_leader = {
-		name = "Maria Wetterstrand and Peter Eriksson"
-		picture = "Maria_och_Peter.dds"
-		ideology = green
-	}
-}
-
-
-2003.1.1 = {
-	create_country_leader = {
-		name = "Ulla Hoffmann"
-		picture = "Ulla_Hoffman.dds"
-		ideology = democratic_socialist_ideology
-	}
-	
-	create_country_leader = {
-		name = "Fredrik Reinfeldt"
-		picture = "Fredrik_Reinfeldt.dds"
-		ideology = libertarian
-	}
-}
-
-2004.1.1 = {
-	create_country_leader = {
-		name = "Lars Ohly"
-		picture = "Lars_Ohly.dds"
-		ideology = democratic_socialist_ideology
-	}
-	
-	create_country_leader = {
-		name = "Göran Hägglund"
-		picture = "Goran_Hagglund.dds"
-		ideology = christian_democrat
-	}
-}
-
-2005.1.1 = {
-	create_country_leader = {
-		name = "Jimmie Åkesson"
-		picture = "Jimmie_Akesson.dds"
-		ideology = counter_progressive_democrat
-	}
-}
-
-2007.1.11 = {
-	set_party_name = {
-		ideology = fascist
-		long_name = SWE_fascist_party_SvP_long
-		name = SWE_fascist_party_SvP
-	}
-	
-	create_country_leader = {
-		name = "Jan Björklund"
-		picture = "Jan_Bjorklund.dds"
-		ideology = liberalist
-	}	
-	
-	create_country_leader = {
-		name = "Mona Sahlin"
-		picture = "Mona_Sahlin.dds"
-		ideology = social_democrat_ideology
-	}	
-}
-
-2011.1.1 = {
-	create_country_leader = {
-		name = "Annie Lööf"
-		picture = "Annie_Loof.dds"
-		ideology = centrist
-	}
-	
-	create_country_leader = {
-		name = "Åsa Romson and Gustav Fridolin"
-		picture = "Asa_and_Gustav.dds"
-		ideology = green
-	}
-	
-	create_country_leader = {
-		name = "Håkan Juholt"
-		picture = "Hakan_Juholt.dds"
-		ideology = social_democrat_ideology
-	}	
-}
-	
-2012.1.1 = {
-	create_country_leader = {
-		name = "Jonas Sjöstedt"
-		picture = "Jonas_Sjostedt.dds"
-		ideology = democratic_socialist_ideology
-	}
-	
-	create_country_leader = {
-		name = "Stefan Löfven"
-		picture = "Stefan_Lofven.dds"
-		ideology = social_democrat_ideology
-	}
-}
-	
-2015.1.1 = {
-	create_country_leader = {
-		name = "Ebba Busch Thor"
-		picture = "Ebba_Busch_Thor.dds"
-		ideology = christian_democrat
-	}
-	
-	create_country_leader = {
-		name = "Anna Kinberg Batra"
-		picture = "Anna_Kinberg_Batra.dds"
-		ideology = libertarian
-	}
-}
-
-2016.1.1 = {
-	create_country_leader = {
-		name = "Lövin and Fridolin"
-		picture = "Isabella_and_Gustav.dds"
-		ideology = green
-	}
-	set_politics = {
-
-		parties = {
-			nationalist = {
-				popularity = 1
-			}
-			reactionary = {
-				popularity = 14
-			}
-			conservative = {
-				popularity = 6
-			}
-			market_liberal = {
-				popularity = 24
-			}
-			social_liberal = {
-				popularity = 6
-			}
-			social_democrat = {
-				popularity = 32
-			}
-			progressive = {
-				popularity = 8
-			}
-			democratic_socialist = {
-				popularity = 7
-			}
-			communist = {
-				popularity = 2
-			}
-		}
-	
-		ruling_party = social_democrat
-		last_election = "2014.9.14"
-		election_frequency = 48
-		elections_allowed = yes
-	}
 }
