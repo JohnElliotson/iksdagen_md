@@ -78,3 +78,35 @@ country_event = {
 		}
 	}
 }
+#The Experimental Act (January 1, 2000)
+country_event = {
+	id = sweden.3
+	title = sweden.3.t
+	desc = sweden.3.d
+	picture = GFX_report_event_the_experimental_act
+	
+	is_triggered_only = yes
+	
+	option = {	#We say no to this monstrosity!
+		name = sweden.3.o3
+		add_popularity = {
+			ideology = social_democrat
+			popularity = 0.01
+		}
+		
+		ai_chance = { factor = 100 }
+	}
+	
+	
+	
+	option = {	#We need enlightment by all means...
+		name = sweden.3.o2
+		
+       add_popularity = {
+			ideology = nationalist
+			popularity = 0.30
+		}
+		
+		ai_chance = { factor = 0 }
+	}
+}
