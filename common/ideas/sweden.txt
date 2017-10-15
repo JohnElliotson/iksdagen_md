@@ -1,0 +1,10 @@
+ideas = {
+	political_advisor = {
+		advisor_SWE_watahekk = {
+			allowed = { original_tag = SWE }
+			traits = { 
+				smooth_talking_charmer
+			}
+		}
+	}
+}
